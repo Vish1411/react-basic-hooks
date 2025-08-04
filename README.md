@@ -1,12 +1,77 @@
-# React + Vite
+# ⚛️ react-basic-hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Empower Simplicity, Accelerate Innovation in UI Development
 
-Currently, two official plugins are available:
+![Last Commit](https://img.shields.io/github/last-commit/Vish1411/react-basic-hooks?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Vish1411/react-basic-hooks?style=flat-square)
+![Languages Count](https://img.shields.io/github/languages/count/Vish1411/react-basic-hooks?style=flat-square)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📦 Built with
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **JavaScript**
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **ESLint**
+- **Autoprefixer**
+- **PostCSS**
+- **npm**
+- **Markdown**
+- **JSON**
+
+---
+
+## 📚 Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Testing](#testing)
+
+---
+
+## 🧩 Overview
+
+**`react-basic-hooks`** is a developer-friendly toolkit designed to accelerate React project setup and streamline UI development. It combines modern frontend tools, styling utilities, and best practices to provide a solid foundation for scalable React applications.
+
+### 🚀 Why use `react-basic-hooks`?
+
+- ⚡ **Fast Development**: Powered by **Vite** for blazing-fast builds and HMR (Hot Module Replacement).
+- 🎨 **Tailwind CSS**: Utility-first CSS framework for flexible and consistent UI styling.
+- 🧼 **Code Quality**: Enforced by **ESLint**, promoting best practices and cleaner codebases.
+- 🧱 **Scalability Ready**: Well-structured for future expansion with **TypeScript** support.
+- 🔄 **Optimized Workflow**: Pre-configured for cross-browser compatibility and rapid prototyping.
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- **Programming Language**: JavaScript
+- **Package Manager**: npm
+
+---
+
+### 📥 Installation
+
+Clone the repository and install dependencies.
+
+```bash
+# Clone the repository
+git clone https://github.com/Vish1411/react-basic-hooks
+
+# Navigate into the project directory
+cd react-basic-hooks
+
+# Install dependencies
+npm install
+
+# Start local server
+npm start
